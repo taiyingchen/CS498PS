@@ -2,6 +2,16 @@
 
 UIUC 2020 Spring CS498PS Audio Computing Lab
 
+## Programming Language
+
+Python 3.7
+
+## Requirements
+
+```txt
+pip install numpy scipy matplotlib sounddevice
+```
+
 ## Lab
 
 * Lab 0: Intro
