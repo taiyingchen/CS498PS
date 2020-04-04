@@ -45,3 +45,6 @@ pip install numpy scipy matplotlib sounddevice
 * Lab 7: Pitch tracking and modifications
     * Making a pitch tracker
     * Changing pitch
+* Lab 8: Spectral Factorizations
+    * Learning Spectral Components
+    * Training Dictionaries for Source Separation
