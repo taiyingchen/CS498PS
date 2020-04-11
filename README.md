@@ -8,8 +8,14 @@ Python 3.7
 
 ## Requirements
 
-```txt
-pip install numpy scipy matplotlib sounddevice
+```sh
+pip install -r requirements.txt
+```
+
+OR
+
+```sh
+pip install numpy scipy matplotlib sounddevice scikit-learn librosa
 ```
 
 ## Lab
@@ -48,3 +54,6 @@ pip install numpy scipy matplotlib sounddevice
 * [Lab 8: Spectral Factorizations](Lab_8.ipynb)
     * Learning Spectral Components
     * Training Dictionaries for Source Separation
+* [Lab 9: Audio Classification](Lab_9.ipynb)
+    * Making a speech detector
+    * Making a music genre classifier
