@@ -57,3 +57,6 @@ pip install numpy scipy matplotlib sounddevice scikit-learn librosa
 * [Lab 9: Audio Classification](Lab_9.ipynb)
     * Making a speech detector
     * Making a music genre classifier
+* [Lab 10: Keyword Recognition](Lab_10.ipynb)
+    * Making a Digit Recognizer
+    * Making a voice-driven dialer
